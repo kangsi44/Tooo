@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Container>
       <Title>Welcome to Card News App</Title>
-      <Subtitle>Your daily dose of news in card format</Subtitle>
+      <Subtitle>행복한 뉴스를 통한 행복한 삶</Subtitle>
     </Container>
   );
 }
